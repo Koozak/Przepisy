@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Listy_3AC</string>
+    <string name="Polecenie">Wybierz kategorię przpisu</string>
+    <string name="kategorie">kategoria: tu wstawimy kategorię</string>
+    <string-array name="kategorie">
+        <item>napoje</item>
+        <item>desery</item>
+        <item>ciasta</item>
+        <item>ciasteczka</item>
+    </string-array>
+</resources>
